@@ -8,7 +8,7 @@ public class intToRom {
     }
     public static void main(String[] args) {
         intToRom ir = new intToRom();
-        System.out.println( ir.intToRoman(1994));
+        System.out.println( ir.intToRoman(936));
     }
     
 }
